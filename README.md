@@ -24,3 +24,4 @@ J'ai pour objectif de me mettre dans la peau du chef de projet de Dev4U et de d√
 4. Une page de calendrier
 5. Une page de gestion des t√¢ches
 
+[Livrables - Notion Dev4U projet Learn@Home](https://www.notion.so/Dev4U-projet-Learn-Home-018a0e67544b4f2ba62dca895984ddc6)
